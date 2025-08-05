@@ -20,6 +20,7 @@ I enjoy solving real-life problems through programming algorithms. Automating ro
 
 ## 🛠️ Tech Stack
 
+
 **Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
