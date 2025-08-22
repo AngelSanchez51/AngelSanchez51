@@ -9,7 +9,6 @@
 ## 🚀 About Me
 
 
-
 I’m a passionate developer with strong interest in **web development**, **IT support**, and **cybersecurity**.  
 I enjoy solving real-life problems through programming algorithms. Automating routine tasks to save time and simplify processes is something I find deeply rewarding.
 
