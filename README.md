@@ -3,7 +3,6 @@
 🎓 Computer Engineer from UAEMex
 
 ---
-
 ## 🚀 About Me
 
 I’m a passionate developer with strong interest in **web development**, **IT support**, and **cybersecurity**.  
